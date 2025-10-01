@@ -1,0 +1,36 @@
+
+/* styles.css */
+
+body { font-family: Arial, sans-serif; margin: 0; padding: 0; background: #063116BA; color: #113D0E; }
+
+header h1 {
+  color: #0b5ed7;
+  text-shadow: 7px 2px 2px dimgray; 
+}
+header {
+  border: 3px solid darkgreen;  /* thickness | style | color */
+  padding: 20px;
+  text-align: center;
+}
+header h1 {
+  color: black; /* title will be blue */
+}
+header {
+  background-image: url("/images/FB_IMG_1759060514373.jpg");
+  background-size: cover;      /* make it cover the whole header */
+  background-position: center; /* center the image */ : color: #255C09green#2A600F; text-align: center; padding: 40px; }
+
+  color: white;
+  text-align: center;
+  padding: 60px;
+}
+
+nav { background: #e9ecef; text-align: center; padding: 10px; }
+
+nav a { margin: 0 10px; text-decoration: none; color: #F8FC85; font-weight: bold; }
+
+main { padding: 20px; }
+
+section { margin-bottom: 20px; background: white; padding: 15px; border-radius: 8px; box-shadow: 0 2px 5px rgba(0,0,0,0.1); }
+
+footer { text-align: center; padding: 15px; background: #0E371B; color: white; margin-top: 20px; }
